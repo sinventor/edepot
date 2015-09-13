@@ -24,18 +24,18 @@ en:
   layouts:
     application:
       title: "Pragmatic Books"
-      home: "Homa"
-      questions: "Question"
+      home: "Home"
+      questions: "Questions"
       news: "News"
       contact: "Contact"
   store:
     index:
-      title_html: "Your Pra"
-      add_html: "Ad too cart"
+      title_html: "Your Pragmatic Books"
+      add_html: "Add too cart"
   carts:
     cart:
       title: "Your Cart"
-      empty: "Empty cart n"
+      empty: "Empty cart"
       checkout: "Checkout"
   number:
     currency:

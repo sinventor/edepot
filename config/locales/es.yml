@@ -55,8 +55,6 @@ es:
               blank: "no peude"
             pay_type:
               inclusion: "ne estt&aacute; incluido en la"
-  activerecord:
-
   errors:
     template:
       body: "Hay problemas con los siguientes campos:"
